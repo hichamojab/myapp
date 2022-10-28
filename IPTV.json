@@ -1,5 +1,6 @@
 {
-        "NetworkAds": "applovin"
+        "NetworkAds": "applovin",
+        "superRoot" : "false"
     
       
 		
